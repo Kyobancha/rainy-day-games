@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "pranaygp.vscode-css-peek",
+        "usernamehw.errorlens",
+        "liamhammett.inline-parameters",
+        "jock.svg",
+        "wayou.vscode-todo-highlight",
+        "dracula-theme.theme-dracula"
+    ]
+}
